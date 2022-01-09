@@ -1,0 +1,69 @@
+friendadd John
+viewby Jimmy
+viewby John
+friendadd Jimmy
+friendadd Billy
+logout
+viewby Jimmy
+friendadd Tom
+listadd Bros
+friendlist Jimmy Bros
+logout
+viewby John
+listadd Bros
+listadd Bros
+listadd Homies
+listadd nil
+friendlist Jimmy Bros
+friendlist Tom Bros
+friendlist Jimmy Homies
+friendlist Jimmy Bruh
+postpicture Hello.txt
+postpicture Hello.txt
+logout
+postpicture Hi.txt
+viewby Jimmy
+postpicture Hi.txt
+chlst Hi.txt Bros
+chlst Hello.txt Bros
+chlst Hi.txt nil
+logout
+viewby Billy
+chlst Hi.txt Bros
+logout
+viewby John
+chlst Hello.txt Bros
+logout
+viewby John
+chown Hi.txt John
+chown Hi.txt Tom
+chown Henlow.txt Jimmy
+logout
+viewby Jimmy
+chown Hi.txt John
+chmod Hi.txt rw rw rw
+postpicture TheGuys.txt
+chmod TheGuys.txt rw rw r-
+logout
+viewby John
+postpicture TheBoys.txt
+readcomments TheBoys.txt
+writecomments TheBoys.txt Test
+chmod TheBoys.txt rw rw r-
+writecomments TheGuys.txt Test
+chmod Hi.txt rw rw rw
+readcomments Brother.txt
+readcomments Hi.txt
+readcomments Hello.txt
+chmod Hello.txt rw -w --
+logout
+viewby Jimmy
+readcomments Hello.txt
+readcomments TheBoys.txt
+logout
+viewby John
+friendadd Tom
+friendlist Tom Bros
+logout
+end
+  

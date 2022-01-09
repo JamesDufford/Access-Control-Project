@@ -1,0 +1,22 @@
+friendadd Tom
+viewby Jimmy
+viewby John
+viewby Tom
+friendadd Jimmy
+friendadd John
+listadd fun
+friendlist John fun
+postpicture happy.txt
+chown happy.txt Billy
+chown happy.txt John
+logout
+viewby John
+chlst happy.txt fun
+chmod happy.txt rw rw rw
+logout
+writecomments happy.txt Cool 
+viewby Jimmy
+writecomments happy.txt Cool
+readcomments happy.txt
+logout
+end
